@@ -8,6 +8,11 @@
     <img src="https://img.shields.io/website?color=gold&label=BOG&logo=BOG&logoColor=BOG&up_color=orange&url=https%3A%2F%2Fbogpro.000webhostapp.com" target="_blank" alt="Web badge">
 </a>
 </div>
+
+<div align="left">
+    <h3> Languages and Tools</h3>
+    <div><img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain.svg" widht="40" height="40"></div>
+</div>
 <!--
 **BorjaOG/BorjaOG** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
