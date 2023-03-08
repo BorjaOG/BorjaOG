@@ -21,7 +21,9 @@
 
 ---
 
-MY STATS
+⚡Github Stats⚡
+
+
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BorjaOG&theme=gruvbox)](https://github.com/BorjaOG/github-readme-stats)
