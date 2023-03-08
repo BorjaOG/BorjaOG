@@ -16,7 +16,9 @@
         <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-plain.svg" widht="40" height="40">
         <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-plain.svg" widht="40" height="40">
         <img src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-plain.svg" widht="40" height="40">
+        <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-plain.svg" widht="40" height="40"></div>
         <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-plain.svg" widht="40" height="40">
+        
        
 </div>
 <!--
