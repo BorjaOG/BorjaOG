@@ -7,7 +7,7 @@
     <a href="bogpro.000webhostapp.com/" target="_blank">
     <img src="" alt="Web badge">
 </a>
-</div>
+</div>u
 <!--
 **BorjaOG/BorjaOG** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
