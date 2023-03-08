@@ -23,7 +23,7 @@
 
 My stats
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=BorjaOG&theme=synthwave&hide_border=true)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=BorjaOG&theme=gruvbox&hide_border=true&mode=weekly)](https://git.io/streak-stats)
 
 <!--
 **BorjaOG/BorjaOG** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
