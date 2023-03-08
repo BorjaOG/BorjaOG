@@ -21,7 +21,7 @@
 
 ---
 
-###My stats
+My stats
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=BorjaOG&theme=synthwave&hide_border=true)](https://git.io/streak-stats)
 
