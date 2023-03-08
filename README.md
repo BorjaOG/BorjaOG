@@ -19,13 +19,11 @@
         <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-plain.svg" widht="40" height="40">   
 </div>
 
-<div>
-    <h1>My stats</h1>
-    <a href="[![GitHub Streak](https://streak-stats.demolab.com?user=BorjaOG&theme=synthwave&hide_border=true)](https://git.io/streak-stats)">
-        <img src="[![GitHub Streak](https://streak-stats.demolab.com?user=BorjaOG&theme=synthwave&hide_border=true)](https://git.io/streak-stats)" alt="">
-    </a>
-    
-</div>
+---
+
+###My stats
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=BorjaOG&theme=synthwave&hide_border=true)](https://git.io/streak-stats)
 
 <!--
 **BorjaOG/BorjaOG** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
