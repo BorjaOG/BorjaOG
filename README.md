@@ -24,10 +24,9 @@
 MY STATS
 
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BorjaOG&theme=gruvbox)](https://github.com/BorjaOG/github-readme-stats)
 
 ![BorjaOG GitHub stats](https://github-readme-stats.vercel.app/api?username=BorjaOG&show_icons=true&theme=gruvbox)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BorjaOG&theme=gruvbox)](https://github.com/BorjaOG/github-readme-stats)
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=BorjaOG&theme=gruvbox&mode=weekly)](https://git.io/streak-stats)
     
