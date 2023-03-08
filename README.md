@@ -1,11 +1,11 @@
  <div id="header" align="center">
-    <img src="https://media0.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47s57gbu5ef85agcu5euj3uc562v6yijqwheddsa15&rid=giphy.gif&ct=g" width="200" />
+    <img src="https://media0.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47s57gbu5ef85agcu5euj3uc562v6yijqwheddsa15&rid=giphy.gif&ct=g" width="300" />
     <h1 align="center">Hi there 👋 I'm Borja OG </h1>
     <h3 align="center">A passionate full stack developer...</h3>
 </div>
 <div id="badges" align="center">
     <a href="bogpro.000webhostapp.com/" target="_blank">
-    <img src="https://img.shields.io/chrome-web-store/v/bogpro.000webhostapp.com?label=BOG&logo=BOG&style=for-the-badge" alt="Web badge">
+    <img src="" alt="Web badge">
 </a>
 </div>
 <!--
