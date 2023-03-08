@@ -21,9 +21,12 @@
 
 <div>
     <h1>My stats</h1>
-    <a href="[![GitHub Streak](https://streak-stats.demolab.com?user=BorjaOG&theme=synthwave&hide_border=true)](https://git.io/streak-stats)"></a>
+    <a href="[![GitHub Streak](https://streak-stats.demolab.com?user=BorjaOG&theme=synthwave&hide_border=true)](https://git.io/streak-stats)">
+        <img src="[![GitHub Streak](https://streak-stats.demolab.com?user=BorjaOG&theme=synthwave&hide_border=true)](https://git.io/streak-stats)" alt="">
+    </a>
     
 </div>
+
 <!--
 **BorjaOG/BorjaOG** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
