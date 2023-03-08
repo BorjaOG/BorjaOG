@@ -15,11 +15,14 @@
         <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain.svg" widht="40" height="40">
         <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-plain.svg" widht="40" height="40">
         <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-plain.svg" widht="40" height="40">
-        <img src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-plain.svg" widht="40" height="40">        
-        <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-plain.svg" widht="40" height="40">
-        
-        
-       
+        <img src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-plain.svg" widht="40" height="40">
+        <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-plain.svg" widht="40" height="40">   
+</div>
+
+<div>
+    <h1>My stats</h1>
+    <h3>[![GitHub Streak](https://streak-stats.demolab.com?user=BorjaOG&theme=synthwave&hide_border=true)](https://git.io/streak-stats)
+    </h3>
 </div>
 
 <!--
