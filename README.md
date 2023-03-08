@@ -11,7 +11,11 @@
 
 <div align="left">
     <h3> Languages and Tools</h3>
-    <div><img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain.svg" widht="40" height="40"></div>
+    <div><img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain.svg" widht="40" height="40">
+        <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain.svg" widht="40" height="40">
+        <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-plain.svg" widht="40" height="40">
+        <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-plain.svg" widht="40" height="40">
+        <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-plain.svg" widht="40" height="40"></div>
 </div>
 <!--
 **BorjaOG/BorjaOG** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
