@@ -27,7 +27,7 @@ MY STATS
 
 ![BorjaOG GitHub stats](https://github-readme-stats.vercel.app/api?username=BorjaOG&show_icons=true&theme=gruvbox)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BorjaOG&layout=compact)](https://github.com/BorjaOG/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BorjaOG&theme=tokyonight)](https://github.com/BorjaOG/github-readme-stats)
     
     
 <!--
