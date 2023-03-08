@@ -21,7 +21,7 @@
 
 ---
 
-###My stats
+My stats
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=BorjaOG&theme=gruvbox&hide_border=true&mode=weekly)](https://git.io/streak-stats)
 
