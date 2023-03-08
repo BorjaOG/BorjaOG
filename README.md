@@ -23,7 +23,7 @@
 
 MY STATS
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=BorjaOG&theme=gruvbox=true&mode=weekly)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=BorjaOG&theme=gruvbox&hide_border=true&mode=weekly)](https://git.io/streak-stats)
 
 ![BorjaOG GitHub stats](https://github-readme-stats.vercel.app/api?username=BorjaOG&show_icons=true&theme=gruvbox)
 
