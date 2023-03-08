@@ -4,7 +4,7 @@
     <h3 align="center">A passionate full stack developer...</h3>
 </div>
 <div id="badges" align="center">
-    <a href="bogpro.000webhostapp.com/" >
+    <a href="https://bogpro.000webhostapp.com/" >
     <img src="https://img.shields.io/website?color=gold&label=BOG&logo=BOG&logoColor=BOG&up_color=orange&url=https%3A%2F%2Fbogpro.000webhostapp.com" target="_blank" alt="Web badge">
 </a>
 </div>
