@@ -32,13 +32,11 @@
 
 <div align="center">
     <h2> ⚡ Stats </h2>
-<img height="150em" src="https://github-readme-stats.vercel.app/api?username=cecigiunta&theme=radical">
-<img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cecigiunta&layout=compact&theme=radical">
-<br>
+
 <img height="30em" src="https://komarev.com/ghpvc/?username=cecigiunta&label=proffile%20views&color=blue">
 </div>
 <br>
 <br>
 <div align="center">
 
--->
+
