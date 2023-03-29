@@ -28,6 +28,7 @@
     
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=BorjaOG&theme=city-lights&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
+    <img height="30em" src="https://komarev.com/ghpvc/?username=cecigiunta&label=proffile%20views&color=blue">
     
 
 
