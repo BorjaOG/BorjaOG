@@ -24,15 +24,14 @@
 
 ⚡Github Stats⚡
 
-
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=BorjaOG&theme=vue-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BorjaOG&layout=compact&theme=vue-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=BorjaOG&theme=city-lights&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BorjaOG&layout=compact&theme=city-lights&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://github.com/anuraghazra/github-readme-stats)
 
 
     
 
 <div align="center">
-    <h2> ⚡ Stats </h2>
+   
 
 <img height="30em" src="https://komarev.com/ghpvc/?username=cecigiunta&label=proffile%20views&color=blue">
 </div>
