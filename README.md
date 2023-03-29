@@ -30,19 +30,15 @@
 
     
 
+<div align="center">
+    <h2> ⚡ Stats </h2>
 <img height="150em" src="https://github-readme-stats.vercel.app/api?username=cecigiunta&theme=radical">
 <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cecigiunta&layout=compact&theme=radical">
 <br>
 <img height="30em" src="https://komarev.com/ghpvc/?username=cecigiunta&label=proffile%20views&color=blue">
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
+</div>
+<br>
+<br>
+<div align="center">
 
 -->
