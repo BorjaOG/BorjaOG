@@ -5,7 +5,7 @@
 </div>
 <div id="badges" align="center">
     <h3>  My Portfolio </h3>
-    <a href="[https://bogpro.000webhostapp.com/](https://borjaog.github.io/Portfolio/)" >
+    <a href="https://borjaog.github.io/Portfolio/" >
     <img src="https://img.shields.io/website?color=gold&label=BOG&logo=BOG&logoColor=BOG&up_color=orange&url=https%3A%2F%2Fbogpro.000webhostapp.com" target="_blank" alt="Web badge">
 </a>
 </div>
