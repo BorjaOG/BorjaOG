@@ -1,6 +1,6 @@
 <div id="header" align="center">
     <img src="https://media0.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47s57gbu5ef85agcu5euj3uc562v6yijqwheddsa15&rid=giphy.gif&ct=g" width="350" />
-    <h1 align="center">Hi there 👋 I'm Borja  </h1>
+    <h1 align="center">Hi there! 👋 I'm Borja  </h1>
     
 </div>
 <div id="badges" align="center">
